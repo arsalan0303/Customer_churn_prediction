@@ -1,0 +1,29 @@
+# Environments
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data (keep raw data out of Git unless its license permits redistribution)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated model artifacts
+models/*.joblib
+models/*.pkl
+models/metadata.json
+!models/.gitkeep
+
+# Generated reports
+reports/*.json
+reports/figures/*
+!reports/figures/.gitkeep
+
+.DS_Store
