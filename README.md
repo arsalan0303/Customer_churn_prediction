@@ -132,14 +132,3 @@ customer-churn-prediction/
 ├── requirements.txt
 └── README.md
 ```
-
-## 10. Before publishing to GitHub
-
-1. Run the notebook from a fresh kernel.
-2. Run training from the command line.
-3. Run API and Streamlit locally.
-4. Run tests.
-5. Add your actual test metrics and EDA findings to this README.
-6. Add screenshots under `reports/figures/`.
-7. Verify dataset licensing and remove sensitive data.
-8. Never commit secrets, `.env` files, or private customer data.
