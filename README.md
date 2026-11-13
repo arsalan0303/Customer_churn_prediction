@@ -1,5 +1,5 @@
 
-# Customer Churn Prediction — End-to-End Data Science Project
+# Customer Churn Prediction 
 
 A portfolio-ready machine-learning project covering business understanding, EDA, preprocessing, feature engineering, model comparison, cross-validation, hyperparameter tuning, threshold selection, final evaluation, SHAP interpretation, API deployment, Streamlit UI, and monitoring.
 
